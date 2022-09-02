@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a [cd .][cd -][/boot]
+ls -la boot alx-system_engineering-devops
